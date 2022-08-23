@@ -43,7 +43,7 @@ Un programme ilisible finira irémédiablement à la poubelle. En gros il faut v
 
 Ce que cette phrase veut dire c'est que le style est important, écrire du bon code c'est très très difficile, il faut s'y mettre dès le début en se disant que tu essayes en fait d'expliquer ce que tu veux faire à un autre humain moins bon que toi avec ton code.
 
-Dans la même veine il y a le [Zen de python](https://www.wikiwand.com/en/Zen_of_Python) qui est un genre des dix commandements du code selon les créateurs du langage python.
+Dans la même veine il y a le [Zen de python]([https://www.wikiwand.com/en/Zen_of_Python](https://www.wikiwand.com/en/Zen_of_Python#/Principles)) qui est un genre des dix commandements du code selon les créateurs du langage python.
 
 ### Apprendre à utiliser Linux ?
 
