@@ -1,6 +1,6 @@
 # Reconversion vers l'informatique
 
-Pense à remettre en question tout ce je te conseille, envoie la page à d'autres informaticiens pour qu'il puisse te dire avec quoi ils sont daccord ou non. Plus tu auras d'avis différent plus tu pourras t'en faire un. Le seul conseil dont je suis sûr c'est : va en priorité vers ce qui te plait à un moment donné parce que si tu es intéressé ça sera beaucoup plus simple de progresser.
+Pense à remettre en question tout ce je te conseille, envoie la page à d'autres informaticiens pour qu'ils puissent te dire avec quoi ils sont daccord ou non. Plus tu auras d'avis différents plus tu pourras t'en faire un bon. Le seul conseil dont je suis sûr c'est : va en priorité vers ce qui te plait à un moment donné parce que si tu es intéressé ça sera beaucoup plus simple de progresser.
 
 ## FAQ
 
