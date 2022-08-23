@@ -4,6 +4,10 @@ Pense à remettre en question tout ce je te conseille, envoie la page à d'autre
 
 ## FAQ
 
+### C'est quoi l'informatique ?
+
+Pas mieux que cette vidéo pour résumer : [Exact Instructions Challenge - THIS is why my kids hate me. | Josh Darnit](https://www.youtube.com/watch?v=cDA3_5982h8&t=6s)
+
 ### Par où commencer ?
 
 Probablement suivre un cours en ligne, j'ai cherché un peu voir ce que je trouvais mais je pense que c'est très personnel, il faut surtout que les profs soient intéressants à écouter pour toi. Celui là m'a paru sympatique [Harvardx CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) il en fait un peu trop, mais c'est peut être une bonne chose. En général je crois que les deux principaux pour les cours en ligne c'est [edX](https://www.edx.org/) et [Coursera](https://www.coursera.org/). Si jamais tu trouves un cours bien hésite pas à me l'envoyer. En parallèle ça peut être bien de faire des choses par soi-même, comme tu disais sur des sites d'exercices :
