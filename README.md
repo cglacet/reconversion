@@ -65,3 +65,14 @@ Aujourd'hui tu n'as presque besoin que de [vscode](https://code.visualstudio.com
 * Partage tout ce que tu fais, même si c'est nul on s'en fout, plus de gens voient ce que tu fais plus tu auras de bons conseils. 
 * Ne jamais prendre une remarque sur ton code pour toi, sinon tu n'en finiras jamais car on écrit tous du code de merde. C'est d'ailleurs un bon moyen de voir si tu progresses, si quand tu regardes ton code d'il y a un mois et que tu te dis "waahh c'est affreux comment j'ai pu écrire ça" c'est que tu es sur la bonne voie. D'ailleurs un très bon article du mec qui a créé stackoverflow à ce sujet [The Ten Commandments of Egoless Programming](https://blog.codinghorror.com/the-ten-commandments-of-egoless-programming/)
 * Toujours se méfier des certitudes et des évidences (des tiennes et aussi de celles des autres).
+
+
+# Formations et diplômes
+
+Aujourd'hui ça reste difficile de trouver un job bien payé sans diplôme (ou équivalence). 
+
+## CNAM
+
+* [DEUST Informatique d'organisation et systèmes d'information](https://www.cnam-nouvelle-aquitaine.fr/diplome,deust-informatique-d-organisation-et-systemes-d-information-iosi-technicien-developpement-securite-et-exploitation,DUS0501A)
+* [Licence 3 : Informatique générale et cybersécurité](https://www.cnam-nouvelle-aquitaine.fr/diplome,licence-3-informatique-generale-et-cybersecurite,LG02501A-2)
+* [Licence 3 : Informatique développement objet et Web](https://www.cnam-nouvelle-aquitaine.fr/diplome,licence-3-informatique-developpement-objet-et-web,LG02501A-3)
