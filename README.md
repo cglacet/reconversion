@@ -2,6 +2,16 @@
 
 Pense à remettre en question tout ce je te conseille, envoie la page à d'autres informaticiens pour qu'ils puissent te dire avec quoi ils sont daccord ou non. Plus tu auras d'avis différents plus tu pourras t'en faire un bon. Le seul conseil dont je suis sûr c'est : va en priorité vers ce qui te plait à un moment donné parce que si tu es intéressé ça sera beaucoup plus simple de progresser.
 
+* [FAQ](#faq)
+  * [C'est quoi l'informatique ?](#cest-quoi-linformatique-)
+  * [Par où commencer ?](#par-où-commencer-)
+  * [Quels langages ?](#quels-langages-)
+  * [Apprendre à utiliser Linux ?](#apprendre-à-utiliser-linux-)
+  * [Quel(s) logiciels ?](#quels-logiciels-)
+* [Conseils en vrac](#conseils-en-vrac)
+* [Formations et diplômes](#formations-et-diplômes)
+  * [Le CNAM](#cnam)
+
 ## FAQ
 
 ### C'est quoi l'informatique ?
