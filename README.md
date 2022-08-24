@@ -79,7 +79,7 @@ Aujourd'hui tu n'as presque besoin que de [vscode](https://code.visualstudio.com
 
 # Formations et diplômes
 
-Aujourd'hui ça reste difficile de trouver un job bien payé sans diplôme (ou équivalence). 
+Aujourd'hui ça reste difficile de trouver un job bien payé sans diplôme (ou équivalence). Ça vaut le coup d'investir du temps pour avoir un diplôme et faciliter les négociations sur ton salaire.
 
 ## CNAM
 
