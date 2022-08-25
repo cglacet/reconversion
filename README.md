@@ -81,6 +81,14 @@ Aujourd'hui tu n'as presque besoin que de [vscode](https://code.visualstudio.com
 
 Aujourd'hui ça reste difficile de trouver un job bien payé sans diplôme (ou équivalence). Ça vaut le coup d'investir du temps pour avoir un diplôme et faciliter les négociations sur ton salaire.
 
+## IUT (DUT/BUT)
+
+Je suis passé par l'IUT de Bordeaux (formation en deux ans). Ma mère aussi est passée par le même IUT (formation accélérée "année spéciale" en un an). Elle a fait une reconversion à plus de 50 ans (de l'électronique vers l'informatique). Elle a réussi à se faire financer par pôle emploi dans son cas, mais pour toi il faudrait trouver un autre moyen (peut être des aides régionales ?). Aujourd'hui ils ne font plus d'année spéciale à Bordeaux, mais il y a d'autres universités qui le proposent encore a priori: 
+
+* [IUT Paris rives de Seine](https://iutparis-seine.u-paris.fr/informatique/bachelor-universitaire-de-technologie-informatique-annee-speciale/) (proche [Boulogne](https://www.google.com/maps/place/IUT+of+Paris+-+Banks+of+the+Seine+University+of+Paris/@48.8422973,2.2661185,14.32z/data=!4m5!3m4!1s0x0:0x497f02af0718f372!8m2!3d48.8420233!4d2.267862))
+* [Amiens](https://www.iut-amiens.fr/wp-content/uploads/DUT_INFO-AS.pdf)
+* [Annecy ?](https://formations.univ-smb.fr/fr/catalogue/but-BUT/sciences-technologies-sante-STS/but-informatique-KGYS5DF3.html) 
+
 ## CNAM
 
 * [DEUST Informatique d'organisation et systèmes d'information](https://www.cnam-nouvelle-aquitaine.fr/diplome,deust-informatique-d-organisation-et-systemes-d-information-iosi-technicien-developpement-securite-et-exploitation,DUS0501A)
