@@ -16,7 +16,7 @@ Pense à remettre en question tout ce je te conseille, envoie la page à d'autre
 
 ### C'est quoi l'informatique ?
 
-Pas mieux que cette vidéo pour résumer : [Exact Instructions Challenge - THIS is why my kids hate me. | Josh Darnit](https://www.youtube.com/watch?v=cDA3_5982h8&t=6s)
+Pas mieux que cette vidéo pour résumer les premiers pas d'un informaticien : [Exact Instructions Challenge](https://www.youtube.com/watch?v=cDA3_5982h8&t=6s).
 
 ### Par où commencer ?
 
