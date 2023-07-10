@@ -21,5 +21,6 @@ super simple et améliore au fur et à mesure (code et/ou fonctionalités).
 
 ## Aller plus loin
 
+- [100+ Web Development Things you Should Know](https://www.youtube.com/watch?v=erEgovG9WBs)
 - [*Design patterns* en avec React](https://www.patterns.dev/posts).
 - Les bases de l'informatique, un cours plus général qui a l'air pas mal : [CS50's Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
