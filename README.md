@@ -94,3 +94,8 @@ Je suis passé par l'IUT de Bordeaux (formation en deux ans). Ma mère aussi est
 * [DEUST Informatique d'organisation et systèmes d'information](https://www.cnam-nouvelle-aquitaine.fr/diplome,deust-informatique-d-organisation-et-systemes-d-information-iosi-technicien-developpement-securite-et-exploitation,DUS0501A)
 * [Licence 3 : Informatique générale et cybersécurité](https://www.cnam-nouvelle-aquitaine.fr/diplome,licence-3-informatique-generale-et-cybersecurite,LG02501A-2)
 * [Licence 3 : Informatique développement objet et Web](https://www.cnam-nouvelle-aquitaine.fr/diplome,licence-3-informatique-developpement-objet-et-web,LG02501A-3)
+
+
+## Conseils dédiés à un langage en particuleir 
+
+- [React (javascript/typescript)](./react.md)
